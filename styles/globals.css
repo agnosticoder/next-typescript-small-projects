@@ -4,7 +4,7 @@ body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
-  background-color: rgb(65, 61, 61);
+  background-color: rgb(184, 171, 171);
 }
 
 a {
@@ -17,5 +17,5 @@ a {
 }
 
 .container{
-  color:rgb(98, 136, 123)
+  color:rgb(22, 32, 29)
 }

@@ -3,7 +3,11 @@ import styles from '../styles/modules/Hello.module.scss';
 const App = () => {
     return (
         <div className={styles.container}>
-            <h2 className={styles.test}>Content color has bee applied using css modules but using scss</h2>
+            <h1>Learning Typescript by building small projects</h1>
+            <ul>
+                <li>Todo App</li>
+                <li>TBD</li>
+            </ul>
         </div>
     );
 };
